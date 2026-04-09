@@ -1,4 +1,6 @@
-
+-- Revenue Optimization Analysis
+-- Comparative study of Ola vs Uber ride data
+-- Focus: revenue, bookings, and demand patterns
 
 
 SELECT * FROM olaa_data
