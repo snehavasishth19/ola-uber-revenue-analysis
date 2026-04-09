@@ -1,3 +1,8 @@
+
+![image_alt](https://github.com/Pushkaraggg/Ola-vs-Uber-Revenue-Analysis/blob/44f4be2eec4a58e5673a395ad4f3e58a887b615e/ola%20image.jpg)
+
+![image_alt](https://github.com/Pushkaraggg/Ola-vs-Uber-Revenue-Analysis/blob/e55ffede37a718e06f7015b4d546dd0583308c24/uber%20image.jpg)
+
 # Ola vs. Uber — Revenue & Operations Analysis
 
 > A comparative business analysis examining revenue performance, pricing strategy, operational efficiency, and growth levers across two of India's largest ride-hailing platforms.
