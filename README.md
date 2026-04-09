@@ -100,3 +100,6 @@ This project conducts an end-to-end comparative analysis of Ola and Uber's ride-
 Uber's revenue advantage stems from structurally superior booking completion rates, better fare optimization, and stronger digital transaction adoption — not simply higher demand volume. Ola's path to profitability lies in reducing driver-initiated cancellations, repricing its premium ride categories, and aligning driver supply with peak demand windows. Closing these gaps could significantly improve both revenue realization and unit economics.
 
 ---
+## Project Scope
+This analysis focuses on identifying performance gaps and understanding how pricing and demand dynamics impact revenue generation across platforms.
+
